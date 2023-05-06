@@ -1,6 +1,6 @@
 # Fast Stable Diffusion
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/TheLastBen/PPS?machine=Free-GPU)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/anonderpling/PPS?machine=Free-GPU)
 
 ## Run these notebooks with Paperspace Gradient
 
